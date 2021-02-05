@@ -15,7 +15,7 @@ Geo Albers USA Projection for States for Percent Change in Mortality Rate, 1980-
 
 Geo Albers Projection for Counties for Percent Change in Mortality Rate, 1980-2014
 
-![Geo Albers Projection for Counties](img/CCounties_Albers.png?raw=true "Geo Albers Projection for Counties")
+![Geo Albers Projection for Counties](img/Counties_Albers.png?raw=true "Geo Albers Projection for Counties")
 
 
 Geo Albers USA Projection for Counties for Percent Change in Mortality Rate, 1980-2014
