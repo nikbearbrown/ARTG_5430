@@ -1,0 +1,257 @@
+[
+ {
+   "Location": "Alabama",
+   "FIPS": "01",
+   "pctChange": -39.91
+ },
+ {
+   "Location": "Alaska",
+   "FIPS": "02",
+   "pctChange": -50.33
+ },
+ {
+   "Location": "Arizona",
+   "FIPS": "04",
+   "pctChange": -49.4
+ },
+ {
+   "Location": "Arkansas",
+   "FIPS": "05",
+   "pctChange": -37.74
+ },
+ {
+   "Location": "California",
+   "FIPS": "06",
+   "pctChange": -53.59
+ },
+ {
+   "Location": "Colorado",
+   "FIPS": "08",
+   "pctChange": -47.83
+ },
+ {
+   "Location": "Connecticut",
+   "FIPS": "09",
+   "pctChange": -53.57
+ },
+ {
+   "Location": "Delaware",
+   "FIPS": "10",
+   "pctChange": -53.02
+ },
+ {
+   "Location": "District of Columbia",
+   "FIPS": "11",
+   "pctChange": -43.44
+ },
+ {
+   "Location": "Florida",
+   "FIPS": "12",
+   "pctChange": -48.5
+ },
+ {
+   "Location": "Georgia",
+   "FIPS": "13",
+   "pctChange": -49.04
+ },
+ {
+   "Location": "Hawaii",
+   "FIPS": "15",
+   "pctChange": -42.86
+ },
+ {
+   "Location": "Idaho",
+   "FIPS": "16",
+   "pctChange": -44.66
+ },
+ {
+   "Location": "Illinois",
+   "FIPS": "17",
+   "pctChange": -52.56
+ },
+ {
+   "Location": "Indiana",
+   "FIPS": "18",
+   "pctChange": -47.01
+ },
+ {
+   "Location": "Iowa",
+   "FIPS": "19",
+   "pctChange": -45.33
+ },
+ {
+   "Location": "Kansas",
+   "FIPS": "20",
+   "pctChange": -42.66
+ },
+ {
+   "Location": "Kentucky",
+   "FIPS": "21",
+   "pctChange": -44.44
+ },
+ {
+   "Location": "Louisiana",
+   "FIPS": "22",
+   "pctChange": -44.8
+ },
+ {
+   "Location": "Maine",
+   "FIPS": "23",
+   "pctChange": -54.12
+ },
+ {
+   "Location": "Maryland",
+   "FIPS": "24",
+   "pctChange": -49.74
+ },
+ {
+   "Location": "Massachusetts",
+   "FIPS": "25",
+   "pctChange": -55.06
+ },
+ {
+   "Location": "Michigan",
+   "FIPS": "26",
+   "pctChange": -47.05
+ },
+ {
+   "Location": "Minnesota",
+   "FIPS": "27",
+   "pctChange": -55.6
+ },
+ {
+   "Location": "Mississippi",
+   "FIPS": "28",
+   "pctChange": -39.26
+ },
+ {
+   "Location": "Missouri",
+   "FIPS": "29",
+   "pctChange": -43.69
+ },
+ {
+   "Location": "Montana",
+   "FIPS": "30",
+   "pctChange": -46.58
+ },
+ {
+   "Location": "Nebraska",
+   "FIPS": "31",
+   "pctChange": -50.53
+ },
+ {
+   "Location": "Nevada",
+   "FIPS": "32",
+   "pctChange": -48.6
+ },
+ {
+   "Location": "New Hampshire",
+   "FIPS": "33",
+   "pctChange": -52.71
+ },
+ {
+   "Location": "New Jersey",
+   "FIPS": "34",
+   "pctChange": -54.55
+ },
+ {
+   "Location": "New Mexico",
+   "FIPS": "35",
+   "pctChange": -41.49
+ },
+ {
+   "Location": "New York",
+   "FIPS": "36",
+   "pctChange": -54.77
+ },
+ {
+   "Location": "North Carolina",
+   "FIPS": "37",
+   "pctChange": -51.65
+ },
+ {
+   "Location": "North Dakota",
+   "FIPS": "38",
+   "pctChange": -46.73
+ },
+ {
+   "Location": "Ohio",
+   "FIPS": "39",
+   "pctChange": -49.09
+ },
+ {
+   "Location": "Oklahoma",
+   "FIPS": "40",
+   "pctChange": -33.8
+ },
+ {
+   "Location": "Oregon",
+   "FIPS": "41",
+   "pctChange": -50.37
+ },
+ {
+   "Location": "Pennsylvania",
+   "FIPS": "42",
+   "pctChange": -52.07
+ },
+ {
+   "Location": "Rhode Island",
+   "FIPS": "44",
+   "pctChange": -50.98
+ },
+ {
+   "Location": "South Carolina",
+   "FIPS": "45",
+   "pctChange": -52.32
+ },
+ {
+   "Location": "South Dakota",
+   "FIPS": "46",
+   "pctChange": -49.6
+ },
+ {
+   "Location": "Tennessee",
+   "FIPS": "47",
+   "pctChange": -42.09
+ },
+ {
+   "Location": "Texas",
+   "FIPS": "48",
+   "pctChange": -46.72
+ },
+ {
+   "Location": "Utah",
+   "FIPS": "49",
+   "pctChange": -42.88
+ },
+ {
+   "Location": "Vermont",
+   "FIPS": "50",
+   "pctChange": -53.95
+ },
+ {
+   "Location": "Virginia",
+   "FIPS": "51",
+   "pctChange": -53.53
+ },
+ {
+   "Location": "Washington",
+   "FIPS": "53",
+   "pctChange": -48.5
+ },
+ {
+   "Location": "West Virginia",
+   "FIPS": "54",
+   "pctChange": -46.22
+ },
+ {
+   "Location": "Wisconsin",
+   "FIPS": "55",
+   "pctChange": -50.73
+ },
+ {
+   "Location": "Wyoming",
+   "FIPS": "56",
+   "pctChange": -43.44
+ }
+]

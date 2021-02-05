@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Viz Tech 2 | Week 1 Nik Bear Brown States</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.5.0/d3.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Percent Change in Mortality Rate, 1980-2014 by County</h1>
+   
+        <P>I was having a lot of issues with the county data so I changed the return value to a very dark grey  <pre>return '#43464B';.</pre>.
+            At first I thought a lot of data was missing and I could not visually tell the difference between the middle of my color gradient and
+            a light grey. So many light grey counties on the map is due to so many counties being in the middle of the spectrum (light grey).
+            Not due to missing data.
+        </p>
+        
+
+        <p>I also tried a  percent change in mortality rate, 1980-2014 by county using d3.geoAlbersUsa() in the file <a href="index_usa_counties.html">index_usa_counties.html</a> </p>   
+        
+        
+        <svg></svg>
+    </div>
+    <script src="counties.choropleth.js"></script>
+</body>
+</html>

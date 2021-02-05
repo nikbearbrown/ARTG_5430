@@ -1,0 +1,9 @@
+.container {
+    width: 800px;
+    margin: auto;
+}
+
+g.map > path {
+    fill: none;
+    stroke: #ccc;
+}
