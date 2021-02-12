@@ -20,7 +20,7 @@ It is zoomable and has a tooltip.
 
 ![COVID cases tooltip](img/Total_COVID_cases_and_deaths_in_United_States_counties_February_8_2021_Tooltip.png?raw=true "COVID cases tooltip")
 
-![COVID cases zoom](img/Total_COVID_cases_and_deaths_in_United_States_counties_February_8_2021_Zoom_.png?raw=true "COVID cases zoom")
+![COVID cases zoom](img/Total_COVID_cases_and_deaths_in_United_States_counties_February_8_2021_Zoom.png?raw=true "COVID cases zoom")
 
 
 
