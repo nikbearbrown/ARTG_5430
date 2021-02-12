@@ -1,6 +1,10 @@
 # Week 2 Assignment
 
-Create a choropleth map for every US county using Geo Albers projection, with the column '% Change in Mortality Rate, 1980-2014' in the file data/mort.csv for the category 'cardiovascular diseases'. If you feel ambitious, please go ahead and make multiple maps for different categories.
+Create a bubble map of number of cases for each county you find in data/covid_us_county_latest.csv
+
+Color the bubbles with a d3-color-scheme of your choice with the number of covid-deaths from the same data file
+
+Make a working tooltip that you can hover over and show
 
 #  There is one bubble map
 
