@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COVID Cases & Deaths - US Counties - NBB</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.5.0/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-hexbin/0.2.2/d3-hexbin.min.js" integrity="sha512-UdiUWVPl/Llj9EsBhtsgPBWwvCJr8S8/DKQzIqh6qLAfqiziqzJBcVl3xPRJChhKCBlFwOEIbyR18af9rVaAZw==" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>COVID Cases & Deaths US Counties</h1>
+        <p>Total COVID cases and deaths in United States counties on February 8, 2021.
+        <br />
+        The  radius of the bubble is promotional to the number of cases and the opacity of the purple 
+        is promotional to the number of deaths.  Use trackpad to zoom in and hover over a bubble for details.  
+        </p>
+        <svg></svg>
+    </div>
+    <div id="map-tooltip">
+        <div class="name"></div>
+        <div class="cases"></div>
+        <div class="deaths"></div>
+    </div>
+    <script src="covid.tooltip.bubbles.js"></script>
+</body>
+</html>

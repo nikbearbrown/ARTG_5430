@@ -1,0 +1,87 @@
+body {
+background-color: #E1E3DD;
+margin: 1em auto;
+max-width: 800px;
+overflow: visible;
+padding-left: 2em;
+padding-right: 2em;
+font-family: "Gil Sans","Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14px;
+color: #43464B;
+line-height: 1.35;
+}
+
+.container {
+    width: 800px;
+    margin: 55px 0;
+}
+
+g.map > path {
+    fill: none;
+    stroke: #ccc;
+}
+
+g.bubbles > circle {
+    fill: rgba(30, 80, 100, 0.8);
+}
+
+g.hexbin > path {
+    fill: rgba(30, 80, 100, 0.8);
+}
+
+div#map-tooltip {
+    display: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    width: 200px;
+    height: 60px;
+    background: #f9f1f1;
+    padding: 8px;
+    border-radius: 5px;
+    box-shadow: -1px 1px 4px #888;
+}
+
+div#map-tooltip > div {
+    margin-bottom: 5px;
+}
+
+
+h1 {
+  font-size: 34px;
+}
+
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+
+p {
+margin: 0.5em 0;
+}
+
+a {
+color: #0033dd;
+text-decoration: none;
+}
+a:hover {
+color: #6666ff; }
+a:visited {
+color: #800080; }
+a:visited:hover {
+color: #BB00BB; }
+a[href^="http:"] {
+text-decoration: underline; }
+a[href^="https:"] {
