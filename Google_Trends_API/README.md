@@ -2,6 +2,11 @@
 
 How to use the Google Trends API
 
+ This is also available as a Google Colab notebook
+ 
+ https://colab.research.google.com/drive/1N4Ab2EkiZSZKw0ZRmgc1rTDnY7m-XPuc?usp=sharing
+ 
+ 
 
 # Questions
 
